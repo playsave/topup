@@ -31,3 +31,4 @@ Repair Status	Repair gear durability	Low/Medium	Broken gear significantly hinder
 ![alt text](https://via.placeholder.com/600x400?text=Insert+Inventory/Consumables+Image+Here)
 Conclusion
 Solo farming the tower is a rewarding path for dedicated players. It demands strategic thinking, solid execution, and resilience. By focusing on thorough preparation, employing smart in-run tactics, and being willing to adapt, you can significantly enhance your farming efficiency and enjoy the considerable rewards waiting on the higher floors. Keep climbing, keep refining your skills, and happy farming!
+
